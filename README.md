@@ -11,7 +11,7 @@ I'm Frontend Developer with over 6+ years of experience in the industry and pass
 * ✉️  You can contact me at [contact@starryskadi.com](mailto:contact@starryskadi.com)
 * 🧠  I'm learning Data Structure and Algorithms
 * 🤝  I'm open to collaborating on Next.js Projects
-* ⚡  I'm interested to share the knowledge that I gained for technologies.
+* ⚡  I love to share about technology
 
 ### Skills
 
