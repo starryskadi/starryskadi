@@ -13,9 +13,6 @@ I'm Frontend Developer with over 6+ years of experience in the industry and pass
 * 🤝  I'm open to collaborating on Next.js Projects
 * ⚡  I'm interested to share the knowledge that I gained for technologies.
 
-<a href="https://www.github.com/starryskadi" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/starryskadi?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
-
 ### Skills
 
 
@@ -32,14 +29,12 @@ src="https://img.shields.io/github/followers/starryskadi?logo=github&style=for-t
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/starryskadi"><img src="https://github-readme-stats.vercel.app/api?username=starryskadi&show_icons=true&hide=&count_private=true&title_color=000000&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="starryskadi's GitHub stats" /></a>
+<a href="http://www.github.com/starryskadi"><img src="https://github-readme-stats.vercel.app/api?username=starryskadi&show_icons=true&hide=&count_private=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&show_icons=true" alt="starryskadi's GitHub stats" /></a>
 
-<a href="http://www.github.com/starryskadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=starryskadi&stroke=444e59&background=ffffff&ring=000000&fire=000000&currStreakNum=444e59&currStreakLabel=000000&sideNums=444e59&sideLabels=444e59&dates=444e59&hide_border=true" /></a>
+<a href="http://www.github.com/starryskadi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=starryskadi&stroke=ffffff&background=1e3a8a&ring=ffffff&fire=ffffff&currStreakNum=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
-<a href="http://www.github.com/starryskadi"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=starryskadi&bg_color=ffffff&color=444e59&line=0891b2&point=444e59&area_color=ffffff&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-<a href="https://github.com/starryskadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskadi&langs_count=10&title_color=000000&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/starryskadi" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=starryskadi&langs_count=10&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <b>Top Repositories</b>
 
-<div width="100%" align="center"><a href="https://github.com/starryskadi/fluffyhugs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=starryskadi&repo=fluffyhugs&title_color=000000&text_color=444e59&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+<div width="100%" align="center"><a href="https://github.com/starryskadi/fluffyhugs" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=starryskadi&repo=fluffyhugs&title_color=ffffff&text_color=ffffff&icon_color=ffffff&bg_color=1e3a8a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
