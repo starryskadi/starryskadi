@@ -7,8 +7,8 @@ Frontend Developer
 I'm Frontend Developer with over 6+ years of experience in the industry and passionate about technology and am committed to continuously improving my skills and staying up-to-date with the latest trends and best practices.
 
 * 🌍  I'm based in Myanmar
-* 🖥️  See my portfolio at [here](http://starryskadi.com)
-* ✉️  You can contact me at [contact@starryskadi.com](mailto:contact@starryskadi.com)
+* 🖥️  See my portfolio at [here](https://kyawzayarwin.com)
+* ✉️  You can contact me at [hello@kyawzayarwin.com](mailto:hello@kyawzayarwin.com)
 * 🧠  I'm learning Data Structure and Algorithms
 * 🤝  I'm open to collaborating on Next.js Projects
 * ⚡  I love to share about technology
