@@ -1,10 +1,10 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Kyaw Zayar Win
 ======================================================================================================================================
 
-Frontend Developer
+Senior Software Enginner
 ------------------
 
-I'm Frontend Developer with over 6+ years of experience in the industry and passionate about technology and am committed to continuously improving my skills and staying up-to-date with the latest trends and best practices.
+I'm Senior Software Engineer with over 6+ years of experience in the industry and passionate about technology and am committed to continuously improving my skills and staying up-to-date with the latest trends and best practices.
 
 * 🌍  I'm based in Myanmar
 * 🖥️  See my portfolio at [here](https://kyawzayarwin.com)
