@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Senior Software Engineer
 ------------------
 
-I'm Senior Software Engineer with over 6+ years of experience in the industry and passionate about technology and am committed to continuously improving my skills and staying up-to-date with the latest trends and best practices.
+I'm Senior Software Engineer with over 7+ years of experience in the industry and passionate about technology and am committed to continuously improving my skills and staying up-to-date with the latest trends and best practices.
 
-* 🌍  I'm based in Myanmar
+* 🌍  I'm based in Thailand.
 * 🖥️  See my portfolio at [here](https://kyawzayarwin.com)
 * ✉️  You can contact me at [hello@kyawzayarwin.com](mailto:hello@kyawzayarwin.com)
 * 🧠  I'm learning Data Structure and Algorithms
